@@ -8,6 +8,9 @@ public class Poligono {
     protected boolean rotacion;
     protected int grados;
 
+    //Cambios Kraken
+    //Cambios Kraken 2
+
     //Constructor
     public Poligono(int lado, int num_lados, boolean relleno){
         this.lado = lado;
